@@ -1,10 +1,10 @@
 package com.afs.oopractice;
 
-public class Car {
+public class Truck {
     private String name;
     private int speed;
 
-    public Car(String name, int speed) {
+    public Truck(String name, int speed) {
         this.name = name;
         this.speed = speed;
     }
